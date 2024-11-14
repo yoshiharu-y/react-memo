@@ -21,7 +21,7 @@ const Header: React.FC = () => {
   return (
     <SHeader>
       <div>
-        <STitle level={1}>Simple Memo</STitle>
+        <STitle level={1}>Text Edit</STitle>
       </div>
     </SHeader>
   );
